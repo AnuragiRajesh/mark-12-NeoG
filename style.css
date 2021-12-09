@@ -1,0 +1,73 @@
+.area1 {
+    text-align: center;
+}
+.mynav {
+    background-color: rgb(218, 205, 35);
+    padding: 5px;
+    font-size: larger;
+    width: 95%;
+    margin: auto;
+    /* margin: 5rem; */
+    border-radius: 0.5rem;
+}
+.div12 {
+    display: block;
+    text-align: right;
+    padding: 0.5rem;
+    text-decoration: none;
+}
+
+.tag {
+    padding: 0.5rem;
+    text-decoration: none;
+    color: rgb(3, 63, 13);
+    font-size: 600;
+    font-weight: bold;
+}
+
+label {
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 1rem;
+    font-size: 1.5rem;
+    color: rgb(218, 205, 35);
+}
+
+
+
+input {
+    font-size: 1.5rem;
+    display: block;
+    width: 256px;
+    margin: auto;
+    height: 3rem;
+    border-radius: 0.5rem;
+
+
+    
+}
+
+.btn1 {
+    display: block;
+    margin: auto;
+    margin-top: 1.5rem;
+    padding: 0.9rem;
+    border-radius: 0.6rem;
+    font-size: larger;
+    background-color: rgb(218, 205, 35);
+}
+.btn2 {
+    display: block;
+    margin: auto;
+    margin-top: 1.5rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+    background-color: rgb(218, 205, 35);
+}
+
+/* footer {
+    background-color: rebeccapurple;
+} */
